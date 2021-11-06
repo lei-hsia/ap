@@ -1,0 +1,53 @@
+Java is always **pass-by-value**. When we're passing objects as parameters, we're actually passing its memory
+address which are pass-by-value as well. There's no such thing as "pass-by-reference" in Java.
+
+The key to understand this is that something like
+
+```
+Dog myDog
+```
+
+`myDog` is not a Dog, it's actually a *pointer*, or the memory address to a Dog object (as called in other languages). 
+
+e.g. 
+```
+Dog myDog = new Dog("Alpha");
+func(myDog);
+```
+
+You're passing the *address* of the created `Dog` object to the `func` method. Suppose the `Dog` object `Alpha`
+is at memory address `0xff1111`, this means we pass `0xff1111` to the method `func`.
+
+If the method is like
+```
+public void func(Dog someDog) {
+    someDog.setName("Bravo");        // 1: someDog is set to value 0xff1111, points to Dog @0xff1111, asked to change name
+    
+    someDog = new Dog("Charlie");  // 2: a new Dog at address e.g. 0xff2222 is created; reassign someDog to this Dog @0xff2222
+    
+    someDog.setName("Delta");   // 3: asked to change name of the Dog @0xff2222 
+}
+```
+
+Then, what happend outside the method `func`? Does `myDog` i.e. `new Dog("Alpha")` change?
+
+
+That's the key.
+
+Keep in mind that `myDog` is a *pointer*, and not the actually `Dog`, the answer is NO; `myDog` still have
+the value `0xff1111`, still points to the original `Dog`.
+
+It's perfectly valid to have another variable following the same address and do something; it's not changing
+the original variable, though.
+
+---
+
+Java works like C.  You can assign a pointer, pass the pointer to a method, follow the pointer in the method 
+and change the data that was pointed to. However, 
+the caller will not see any changes you make to where that pointer points.
+
+In C++ and other languages that support pass-by-reference, you can actually change the variable that was passed.
+
+
+
+
