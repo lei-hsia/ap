@@ -1,5 +1,5 @@
 
-**TODO**: starting Lab @chapter10 next class (29th, Jan.)
+~~**TODO**: starting Lab @chapter10 next class (29th, Jan.)~~
 
 ### Labs
 
