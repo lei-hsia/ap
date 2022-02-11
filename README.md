@@ -5,13 +5,14 @@
 
 Student Guide: 
 
-- [Magpie](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf)
+- [Magpie](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf) (**Goal: String manipulations**)
   - For Magpie Lab, you can refer to [this demo](https://github.com/jvperrin/magpie-lab/blob/master/magpie-starter-code/activity4/Magpie4.java).
   - Chatbot demo: [MS bing](https://www.bing.com/)
-- [Elevens](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-compscia-elevens-lab-student-guide.pdf)
+
+- [Elevens](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-compscia-elevens-lab-student-guide.pdf) (**Goal: Class design**)
   - For Elevens Lab, you can refer to [a working demo](https://github.com/lei-hsia/ap/tree/main/Activity-9)
     - I refered to [this Github repository](https://github.com/akusleika/Elevens-Lab).
   - Similar simulations: ["Big Java, Page372, P7.7: Video Poker"](https://github.com/lei-hsia/ap/blob/main/Achtung/7.videoPoker.png)
   - Shuffle: Random, Perfect+Random, etc.
-- [Picture](https://secure-media.collegeboard.org/digitalServices/pdf/ap/picture-lab-studentguide.pdf)
+- [Picture](https://secure-media.collegeboard.org/digitalServices/pdf/ap/picture-lab-studentguide.pdf) (**Goal: Process 2D Array/Matrix**)
   - For Pictures Lab, PDF can be download via [this Google Drive](https://drive.google.com/file/d/1iwl_m6qbRkNA_INbEm-YaVIrNaSlMfRj/view?usp=sharing)
