@@ -7,6 +7,7 @@ Student Guide:
 
 - [Magpie](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf)
   - For Magpie Lab, you can refer to [this demo](https://github.com/jvperrin/magpie-lab/blob/master/magpie-starter-code/activity4/Magpie4.java).
+  - Chatbot demo: [MS bing](https://www.bing.com/)
 - [Elevens](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-compscia-elevens-lab-student-guide.pdf)
   - For Elevens Lab, you can refer to [this Github repository](https://github.com/akusleika/Elevens-Lab).
   - Similar simulations: "Big Java, Page372, P7.7: Video Poker"
