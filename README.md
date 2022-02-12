@@ -13,5 +13,6 @@ Student Guide:
   - Similar simulations: ["Big Java, Page372, P7.7: Video Poker"](https://github.com/lei-hsia/ap/blob/main/Achtung/7.videoPoker.png)
 - [Picture](https://secure-media.collegeboard.org/digitalServices/pdf/ap/picture-lab-studentguide.pdf) (**Goal: Process 2D Array/Matrix**)
   - For Pictures Lab, PDF can be download via [this Google Drive](https://drive.google.com/file/d/1iwl_m6qbRkNA_INbEm-YaVIrNaSlMfRj/view?usp=sharing)
+  - 
 
 - Basic: Classes, Inheritance, Polymorphism... etc.
