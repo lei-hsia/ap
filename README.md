@@ -5,7 +5,7 @@ Student Guide:
 
 - [Magpie](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf) (**Goal: String manipulations**)
   - For Magpie Lab, you can refer to [this demo](https://github.com/jvperrin/magpie-lab/blob/master/magpie-starter-code/activity4/Magpie4.java).
-  - Chatbot demo: [MS bing](https://www.bing.com/), search chatbot
+  - Search Chatbots
 
 - [Elevens](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-compscia-elevens-lab-student-guide.pdf) (**Goal: Array manipulations, shuffle algorithms**)
   - For Elevens Lab, you can refer to [this repo](https://github.com/lei-hsia/ap/tree/main/Activity-9)
