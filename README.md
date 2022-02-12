@@ -9,7 +9,6 @@ Student Guide:
 
 - [Elevens](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-compscia-elevens-lab-student-guide.pdf) (**Goal: Array manipulations, shuffle algorithms**)
   - For Elevens Lab, you can refer to [a working demo](https://github.com/lei-hsia/ap/tree/main/Activity-9)
-    - I refered to [this Github repository](https://github.com/akusleika/Elevens-Lab).
   - [Shuffle: Random, Perfect+Random, etc](https://github.com/lei-hsia/ap/blob/main/Achtung/8.ShuffleTest.java)
   - Similar simulations: ["Big Java, Page372, P7.7: Video Poker"](https://github.com/lei-hsia/ap/blob/main/Achtung/7.videoPoker.png)
 - [Picture](https://secure-media.collegeboard.org/digitalServices/pdf/ap/picture-lab-studentguide.pdf) (**Goal: Process 2D Array/Matrix**)
